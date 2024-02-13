@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **HTLM, CSS, and JavaScript with a focus on React**
 
-- 👯 I’m looking to collaborate on **Pretty much anything right now**
+- 👯 I’m looking to collaborate on **pretty much anything right now**
 
 - 📫 How to reach me **joshackerman777@gmail.com**
 
