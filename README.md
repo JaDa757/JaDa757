@@ -9,9 +9,11 @@
 
 - 📫 How to reach me **joshackerman777@gmail.com**
 
-- 📄 Know about my experiences [are limited right now, but I am a hard worker and learn quickly](are limited right now, but I am a hard worker and learn quickly)
+- 📄 I Know about my experiences are limited right now, but I am a hard worker and learn quickly
 
-- ⚡ Fun fact **I do brazilian jiujitsu and I am currently a blue belt**
+- ⚡ Fun fact 1 **I do brazilian jiujitsu and I am currently a blue belt**
+  
+- ⚡ Fun fact 2 **  I am embarking on a career transition from management, industrial inspection, and quality assurance to software engineering. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
