@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact 1 **I do brazilian jiujitsu and I am currently a blue belt**
   
-- ⚡ Fun fact 2 **  I am embarking on a career transition from management, industrial inspection, and quality assurance to software engineering. **
+- ⚡ Fun fact 2  I am embarking on a career transition from management, industrial inspection, and quality assurance to software engineering. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
